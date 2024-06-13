@@ -1,6 +1,6 @@
 # WWNumbers
 
-This app analyzes .txt files with a large set of integers and finds:
+# This app analyzes .txt files with a large set of integers and finds:
 The maximum number in the file
 The minimum number in the file
 The median
