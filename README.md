@@ -1,4 +1,5 @@
 # WWNumbers
+## This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
 
 ## This app analyzes .txt files with a large set of integers and finds:
 #### The maximum number in the file
@@ -8,7 +9,6 @@
 #### The longest increasing sequence of consecutive numbers
 #### The longest decreasing sequence of consecutive numbers
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
 
 ## Development server
 
