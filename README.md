@@ -1,8 +1,8 @@
 # WWNumbers
 
-# This app analyzes .txt files with a large set of integers and finds:
-The maximum number in the file
-The minimum number in the file
+## This app analyzes .txt files with a large set of integers and finds:
+### The maximum number in the file
+### The minimum number in the file
 The median
 The mean (average) value
 The longest increasing sequence of consecutive numbers
